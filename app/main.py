@@ -14,12 +14,11 @@ def start_stream():
 
     # output_url = "rtmp://rtmp-server/stream/processed"
     # output_url = "rtmp://localhost:1935/stream/processed"
-    # output_url = "rtmp://nginx-rtmp:1935/stream/processed"
-    output_url = "rtmp://nginx-rtmp.my-app.local:1935/stream/processed"
+    output_url = "rtmp://nginx-rtmp:1935/stream/processed"
+    # output_url = "rtmp://nginx-rtmp.my-app.local:1935/stream/processed" 
+    # output_url = "rtmp://65.1.133.222:1935/stream/processed"
 
     #a
-    
-
 
 
 
